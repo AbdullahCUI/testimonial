@@ -1,3 +1,5 @@
 # testimonial
-Figma: https://shorturl.at/UNnPB
-Live Preview: https://reviewgallery.netlify.app
+<ul>
+  <li>Figma: https://shorturl.at/UNnPB</li>
+  <li>Figma: https://reviewgallery.netlify.app</li>
+</ul>
